@@ -1,0 +1,1 @@
+{'Name': '', 'Type': 'TXT', 'TTL': 300, 'ResourceRecords': [{'Value': '"v=spf1 -all"'}]}
